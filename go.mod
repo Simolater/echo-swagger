@@ -7,7 +7,7 @@ require (
 	github.com/labstack/echo/v5 v5.0.0-20230722203903-ec5b858dab61
 	github.com/stretchr/testify v1.8.2
 	github.com/swaggo/files/v2 v2.0.0
-	github.com/swaggo/swag v1.8.12
+	github.com/swaggo/swag v1.16.2
 )
 
 require (
